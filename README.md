@@ -4,7 +4,7 @@
 The purpose on this analysis is to create meaningful visualizations from the Citibike data to help convince investors about the bike sharing business proposal.
 
 ## Results
-![Here are the visualizations created from our analysis](https://public.tableau.com/app/profile/akinfolarin8600/viz/NYCCitiBikeDataAnalysis_16460885731670/BikeSharingAnalytics?publish=yes)
+[Here are the visualizations created from our analysis](https://public.tableau.com/app/profile/akinfolarin8600/viz/NYCCitiBikeDataAnalysis_16460885731670/BikeSharingAnalytics?publish=yes)
 
 A short description can be found in the caption for each of the visualizations. 
 
